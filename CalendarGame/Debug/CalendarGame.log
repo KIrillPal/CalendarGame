@@ -1,0 +1,3 @@
+﻿  CalendarGame.cpp
+c:\users\kirillpal\documents\visual studio 2015\projects\calendargame\calendargame\pxbutton.h(7): warning C4305: инициализация: усечение из "double" к "const float"
+sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: тип компьютера модуля "x64" противоречит типу целевого компьютера "X86"
